@@ -45,4 +45,4 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 
 ---
 
-*kazakhstan → halifax → probably sf someday*
+*kazakhstan → manila → halifax → probably sf someday*
