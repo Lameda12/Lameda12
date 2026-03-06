@@ -1,4 +1,4 @@
-# hey, i'm andi 🇰🇿
+# hey, i'm alamedin 🇰🇿
 
 > cs student at dalhousie. assignments are my lowest priority side project.
 
