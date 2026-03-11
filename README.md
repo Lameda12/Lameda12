@@ -1,5 +1,4 @@
 # hey, i'm alamedin 🇰🇿
-
 > cs student at dalhousie. assignments are my lowest priority side project.
 
 i build things fast, usually alone, often at night. mostly ai integrations and tools that make complex ideas accessible. occasionally i go too deep on something nobody asked me to and come out the other side with a working implementation and a readme.
@@ -10,6 +9,7 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 
 | project | what it is |
 |--------|------------|
+| [aniscope](https://ani-scoupe.vercel.app) | anime discovery app. no account, no ads, just find what to watch |
 | [microgpt-learning](https://github.com/Lameda12/microgpt-learning) | GPT from scratch. built it to stop pretending i understood attention |
 | [poker4u](https://github.com/Lameda12/poker4u) | poker is the vehicle. decision-making is the destination |
 | [Street Language Academy](https://slang-savvvy-lab.lovable.app) | learn how people actually talk. not textbook language |
@@ -19,7 +19,6 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 ---
 
 ## how i work
-
 - 48-hour sprint → ship → iterate
 - python for backend/cli, next.js for web
 - ai-first everything
@@ -28,16 +27,14 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 ---
 
 ## currently
-
-- 🏗️ building Street Language Academy
+- 🏗️ building mapart — spatial anime room experience (next project)
+- 💼 software developer co-op @ protocase, summer 2026
 - 📚 csci 2134 + csci 2141 @ dal
 - ✈️ exchange confirmed @ city university of hong kong, winter 2027
-- 🔍 open to co-op opportunities
 
 ---
 
 ## find me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alamedin--sabit-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alamedin-sabit/)
 [![X](https://img.shields.io/badge/X-@amadisabit-000000?style=flat&logo=x)](https://x.com/amadisabit)
 [![Portfolio](https://img.shields.io/badge/portfolio-live-green?style=flat)](https://portfolio-chi-seven-92.vercel.app/)
@@ -45,4 +42,4 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 
 ---
 
-*kazakhstan → manila → halifax → probably sf someday*
+*kazakhstan → manila → halifax → hong kong → probably sf someday*
