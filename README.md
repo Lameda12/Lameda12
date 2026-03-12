@@ -28,7 +28,7 @@ i build things fast, usually alone, often at night. mostly ai integrations and t
 
 ## currently
 - 🏗️ building mapart — spatial anime room experience (next project)
-- 💼 software developer co-op @ protocase, summer 2026
+- 💼 looking for co-op opportunity, summer 2026
 - 📚 csci 2134 + csci 2141 @ dal
 - ✈️ exchange confirmed @ city university of hong kong, winter 2027
 
