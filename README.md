@@ -1,6 +1,6 @@
 hello, i'm Alamedin ⋆˚꒰ᐢ. .ᐢ꒱⋆˚
 
-i study computer science (co-op) at Dalhousie University in Halifax, originally from Astana, Kazakhstan 🧭 a solo builder and indie hacker 🤖🧃 who loves shipping AI agents, RAG pipelines, and other weird prototypes in public.
+i study applied computer science at Dalhousie University in Halifax, originally from Astana, Kazakhstan 🧭 a solo builder and indie hacker 🤖🧃 who loves shipping AI agents, RAG pipelines, and other weird prototypes in public.
 
 building AI agent tooling and MCP-powered pipelines, one prototype at a time
 
