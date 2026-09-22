@@ -1,4 +1,5 @@
-hello, i'm Alamedin ⋆˚꒰ᐢ. .ᐢ꒱⋆˚
+## hello, i'm Alamedin
+
 
 i study applied computer science at Dalhousie University in Halifax, originally from Astana, Kazakhstan 🧭 a solo builder and indie hacker 🤖🧃 who loves shipping AI agents, RAG pipelines, and other weird prototypes in public.
 
